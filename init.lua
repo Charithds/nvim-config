@@ -1,0 +1,2 @@
+require("charith")
+print("Hello")
